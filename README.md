@@ -80,7 +80,7 @@ This project answers:
 - Sentiment Split
 - Box Office Hits (Revenue Treemap)
 
-### 🟦 Devs Leaderboards
+### 🟦 Developer Leaderboards
 - The Factory (Most Games Published)
 - Genre Kings
 - The Money Makers
