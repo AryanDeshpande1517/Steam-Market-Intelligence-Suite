@@ -35,8 +35,8 @@ It simulates a real-world **Gaming Market Intelligence & Product Strategy enviro
 ### 🟦 Market Strategy
 ![Market Strategy](Assets/3-Market-Strategy.png)
 
-### 🟦 Devs Leaderboards
-![Devs Leaderboards](Assets/4-Devs-Leaderboards.png)
+### 🟦 Developer Leaderboards
+![Developer Leaderboards](Assets/4-Developer-Leaderboards.png)
 
 ### 🟦 Storefront Intelligence
 ![Storefront](Assets/5-Storefront.png)
