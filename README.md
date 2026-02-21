@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Steam-Market-Intelligence-Suite-Banner.png" width="100%" />
+  <img src="Assets/8.1-Steam-Market-Intelligence-Suite-Banner.png" width="100%" />
 </p>
 
 # 🎮 Steam Market Intelligence Suite
