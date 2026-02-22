@@ -133,6 +133,10 @@ The model is optimized for:
 - Sentiment analysis  
 - Revenue visualization  
 
+> ⚙️ Model Optimization Note  
+> The initial model size was 267MB due to high-cardinality descriptive fields (long text, HTML content, media metadata).  
+> By removing unused columns and optimizing the fact table structure, the final PBIX size was reduced to 26MB, significantly improving performance and portability.
+
 ## 📊 Key Metrics Implemented
 
 - Total Games  
