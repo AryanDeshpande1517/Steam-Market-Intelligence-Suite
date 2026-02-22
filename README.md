@@ -44,6 +44,13 @@ It simulates a real-world **Gaming Market Intelligence & Product Strategy enviro
 ### 🟦 Steam Machine Strategy
 ![Steam Machine](Assets/6-Steam-Machine.png)
 
+<details>
+<summary>🎥 View Interactive Demo</summary>
+
+![Steam Machine Demo](Assets/Valve-Steam-Machine-GIF.gif)
+
+</details>
+
 ## 🎯 Problem Statement
 
 The Steam marketplace hosts 90K+ games across multiple genres, price segments, and developer ecosystems.
