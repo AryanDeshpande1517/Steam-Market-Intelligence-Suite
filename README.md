@@ -44,9 +44,10 @@ It simulates a real-world **Gaming Market Intelligence & Product Strategy enviro
 ### 🟦 Steam Machine Strategy
 ![Steam Machine](Assets/6-Steam-Machine.png)
 
-#### 🎥 Interactive Demo
+### 🎥 Interactive Demo
 <p align="center">
-  <img src="Assets/9-Valve-Steam-Machine-GIF.gif" width="800"/>
+  <img src="Assets/9-Valve-Steam-Machine-GIF.gif" width="800"/><br>
+  <sub><em>Valve Steam Machine – Coming 2026</em></sub>
 </p>
 
 ## 🎯 Problem Statement
@@ -186,7 +187,7 @@ It demonstrates capabilities aligned with:
 - Business Intelligence Developer  
 
 ## 📁 Repository Structure
-- Assets contain Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview Image.
+- Assets contain Dashboard Visuals, Complete Walkthrough PDF and Repository Banner / Social Media Preview Image, and a Steam Machine GIF.
 - Datasets contain Dataset References (no raw data included).
 - Scripts contain DAX Documentation.
 - *Steam Market Intelligence Suite.pbix* is the Complete Interactive Power BI Dashboard.
@@ -203,7 +204,8 @@ Steam-Market-Intelligence-Suite/
 │   ├── 6-Steam-Machine.png
 │   ├── 7-Steam-Market-Intelligence-Suite-Complete-Walkthrough.png
 │   ├── 8.1-Steam-Market-Intelligence-Suite-Banner.png
-│   └── 8.2-Steam-Market-Intelligence-Suite-Social-Preview.png
+│   ├── 8.2-Steam-Market-Intelligence-Suite-Social-Preview.png
+│   └── 9-Valve-Steam-Machine-GIF.gif
 │
 ├── Datasets/
 │   └── Data-Sources.md
