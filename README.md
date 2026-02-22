@@ -44,12 +44,8 @@ It simulates a real-world **Gaming Market Intelligence & Product Strategy enviro
 ### 🟦 Steam Machine Strategy
 ![Steam Machine](Assets/6-Steam-Machine.png)
 
-<details>
-<summary>🎥 View Interactive Demo</summary>
-
+#### 🎥 Interactive Demo
 ![Valve Steam Machine - Coming 2026](Assets/9-Valve-Steam-Machine-GIF.webm)
-
-</details>
 
 ## 🎯 Problem Statement
 
